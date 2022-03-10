@@ -1,0 +1,5 @@
+<launch>
+  <node name="keyboard_publisher" pkg="sdk-picar-ros-full" type="scripts/sdk_picar_ros/keyboard_publisher.py" output="screen">
+  
+  </node>
+</launch>

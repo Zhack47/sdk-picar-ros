@@ -1,0 +1,23 @@
+<package format="2">
+  <name>sdk-picar-ros-full</name>
+  <version>1.0.0</version>
+  <license>BSD</license>
+
+  <description>
+	ROS SDK
+  </description>
+
+  <maintainer email="jbo@jhu.edu">Jonathan Bohren</maintainer>
+  <author>Zacharia Mesbah</author>
+  <author>Bertrand Desquenne</author>
+  <author>Héloïse Leu</author>
+  <author>Khalil Balga</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <depend>roscpp</depend>
+  <depend>diagnostic_updater</depend>
+  <depend>sensor_msgs</depend>
+  <depend>joystick</depend>
+
+</package>
