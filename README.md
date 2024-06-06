@@ -2,14 +2,6 @@
 
 **Ce projet est le résultat du travail de l'équipe de Systèmes Embarqués**
 
-Les membres de cette équipe sont :
-
-- BALGA Khalil
-- BOURDELEAU Guillaume
-- DESQUENNE Bertrand
-- GUERRY Émilien
-- LEU Héloïse
-- MESBAH Zacharia
 
 
 ## Objectifs du projet
